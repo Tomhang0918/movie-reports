@@ -1,0 +1,9 @@
+# 系统与临时文件
+Thumbs.db
+Desktop.ini
+*.tmp
+*.bak
+
+# 编辑器 / Obsidian
+.obsidian/
+.vscode/
